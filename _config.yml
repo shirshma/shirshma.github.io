@@ -1,12 +1,12 @@
 # Setup
-title:               Connor Dowd
+title:               Sam Hirshman
 tagline:             
-url:                 https://codowd.com
-baseurl:             https://codowd.com
+url:                 https://samhirshman.com
+baseurl:             https://samhirshman.com
 
 #Pages for header  
 pages_list:       
-  Contact: 'mailto:cdowd@chicagobooth.edu'
+  Contact: 'mailto:shirsma@chicagobooth.edu'
   CV: '/public/CV.pdf'
 
 
@@ -29,5 +29,3 @@ gems:
   - jekyll-gist
   - jekyll-seo-tag
 
-
-theme: jekyll-theme-cayman
