@@ -1,0 +1,31 @@
+# Setup
+title:               Connor Dowd
+tagline:             
+url:                 https://codowd.com
+baseurl:             https://codowd.com
+
+#Pages for header  
+pages_list:       
+  Contact: 'mailto:cdowd@chicagobooth.edu'
+  CV: '/public/CV.pdf'
+
+
+# Assets 
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:              
+  name:              cdowd
+  url:               cdowd.github.io
+
+
+# Gems
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-seo-tag
+
