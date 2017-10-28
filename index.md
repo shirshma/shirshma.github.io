@@ -19,4 +19,4 @@ I primarily study Prospect Theory, Mental Accounting, and consumer financial dec
 <p> Prior to starting my PhD, I worked at RAND in Boston doing health insurance research. 
 
 
-<p>Email me at “[shirshma@chicagobooth.edu](mailto:shirshma@chicagobooth.edu)“.
+<p>Email me at [shirshma@chicagobooth.edu](mailto:shirshma@chicagobooth.edu).
