@@ -5,7 +5,12 @@ description: PhD student in Behavioral Science at University of Chicago's Booth 
 [In Progress]
 I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.
 
-I primarily study Prospect Theory, Mental Accounting, and financial decision making. I am currently working on projects related to credit card debt repayment, upgrading under relative thinking, and metrics for detecting the ‘hot hand’ in basketball. I am developing ideas to apply reference dependence in field settings. 
+I primarily study Prospect Theory, Mental Accounting, and consumer financial decision making. I am currently working on projects related to
+  1) Credit card debt repayment (with Abby Sussman)
+  2) Upgrade decisions under relative thinking vs. mental accounting (with Devin Pope and Jihong Song)
+  3) Metrics for detecting the ‘hot hand’ in basketball (with Connor Dowd and Nick Polson)
+  
+I am developing ideas to related to loss aversion parameter estimation, non-parametric estimation of the probability weighting function, and reference dependence in field settings. 
 
 Prior to starting my PhD, I worked at RAND in Boston doing health insurance research. 
 
