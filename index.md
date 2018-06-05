@@ -2,7 +2,6 @@
 layout: default
 description: PhD student in Behavioral Science at University of Chicago's Booth School of Business
 ---
-[In Progress]
 I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.
 
 I primarily study Prospect Theory, Mental Accounting, and consumer financial decision making. I am currently working on projects related to
