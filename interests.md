@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<html>
-<body>
+
+
  I am an avid coffee drinker and have travelled to shops around the world.
- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q3F7PwfN9W2hqTMrI-XIJBoLrVo" width="640" height="480"></iframe>
-</body>
-</html>
+ <frame src="https://www.google.com/maps/d/u/0/embed?mid=1Q3F7PwfN9W2hqTMrI-XIJBoLrVo" width="640" height="480"></frame>
+
+
