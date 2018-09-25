@@ -7,7 +7,8 @@ I’m a PhD student in Behavioral Science at the University of Chicago Booth Sch
 I primarily study Prospect Theory, Mental Accounting, and consumer financial decision making. I am currently working on projects related to
   <p> 1) Credit card debt repayment (with Abby Sussman)
   
- <p> 2) Upgrade decisions under relative thinking vs. mental accounting (with Devin Pope and Jihong Song)
+ <p> 2) <a href='/public/Website_mental_budgeting.pdf'> Mental Budgeting vs. Relative Thinking</a>
+        AEA Papers and Proceedings (with Devin Pope and Jihong Song)
   
   <p>3) Metrics for detecting the ‘hot hand’ in basketball (with Connor Dowd and Nick Polson)
   
