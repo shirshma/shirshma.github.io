@@ -25,5 +25,9 @@ I primarily study Prospect Theory, Mental Accounting, and consumer financial dec
 <p>
 Email me at <a href="mailto:shirshma@chicagobooth.edu">shirshma@chicagobooth.edu</a>.
 
- I am an avid coffee drinker and have travelled to shops around the world.
+ I am an enthusiastic coffee drinker and have travelled to shops around the world. If you are looking for recommendations I'd say
+ <p> 1) Tim Wendelboe Oslo, Norway
+ <p> 2) Trakteren Amsterdam, Netherlands
+ <p> 3) Onibus Tokyo, Japan
+   
 
