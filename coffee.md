@@ -1,6 +1,6 @@
 ---
 layout: default
-description: PhD student in Behavioral Science at University of Chicago's Booth School of Business
+description: Coffee Interest
 ---
 
 <img src="public/sdh_headshot.jpg" alt="headshot" width="424" >
