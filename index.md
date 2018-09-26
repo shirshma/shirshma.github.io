@@ -17,7 +17,7 @@ I primarily study Prospect Theory, Mental Accounting, and consumer financial dec
   <p>3) Metrics for detecting the ‘hot hand’ in basketball (with Connor Dowd and Nick Polson)
   
   
-<p>I am developing ideas to related to loss aversion parameter estimation, non-parametric estimation of the probability weighting function, and reference dependence in field settings. 
+<p>I am developing ideas related to loss aversion parameter estimation, non-parametric estimation of the probability weighting function, and reference dependence in field settings. 
 
 
 <p> Prior to starting my PhD, I worked at RAND in Boston doing health services research. 
