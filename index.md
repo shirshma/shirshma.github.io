@@ -2,9 +2,12 @@
 layout: default
 description: PhD student in Behavioral Science at University of Chicago's Booth School of Business
 ---
+<div class="row">
+  <div class="column">
 
 <img src="public/sdh_headshot.jpg" alt="headshot" width="424" height="283" >
-
+</div>
+  <div class="column1">
 I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.
 
 I primarily study Prospect Theory, Mental Accounting, and consumer financial decision making. I am currently working on projects related to
@@ -24,3 +27,5 @@ I primarily study Prospect Theory, Mental Accounting, and consumer financial dec
 
 <p>
 Email me at <a href="mailto:shirshma@chicagobooth.edu">shirshma@chicagobooth.edu</a>.
+</div>
+</div>
