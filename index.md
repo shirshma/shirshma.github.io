@@ -5,7 +5,7 @@ description: PhD student in Behavioral Science at University of Chicago's Booth 
 <div class="row">
   <div class="column">
 
-<img src="public/sdh_headshot.jpg" alt="headshot" width="424" height="283" >
+<img src="public/sdh_headshot.jpg" alt="headshot" width="424" >
 </div>
   <div class="column1">
 I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.
