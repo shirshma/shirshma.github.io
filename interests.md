@@ -9,4 +9,3 @@
   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q3F7PwfN9W2hqTMrI-XIJBoLrVo" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 </div>
-<iframe  frameborder="0" allowfullscreen="allowfullscreen"></iframe>
