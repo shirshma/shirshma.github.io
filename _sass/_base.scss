@@ -96,3 +96,8 @@ tbody tr:nth-child(odd) th {
     display: table;
     clear: both;
 }
+
+.responsive-wrap{ 
+  iframe{ max-width: 100%;}
+}
+
