@@ -5,10 +5,11 @@ description: PhD student in Behavioral Science at University of Chicago's Booth 
 
 <img src="public/sdh_headshot.jpg" alt="headshot" width="424" height="283" >
 
-<p>I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.</p>
+I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.
 
 I primarily study Prospect Theory, Mental Accounting, and consumer financial decision making. I am currently working on projects related to
-  <p> 1) Credit card debt repayment (with Abby Sussman)
+  <p> 1) Credit card debt repayment strategies and minimum payments<br>
+        Under review at JMR (with Abby Sussman)
   
  <p> 2) <a href='/public/Website_mental_budgeting.pdf'> Mental Budgeting vs. Relative Thinking</a><br>
         AEA Papers and Proceedings (with Devin Pope and Jihong Song)
