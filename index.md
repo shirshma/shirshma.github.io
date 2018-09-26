@@ -3,10 +3,9 @@ layout: default
 description: PhD student in Behavioral Science at University of Chicago's Booth School of Business
 ---
 
-
 <img src="public/sdh_headshot.jpg" alt="headshot" width="424" height="283" style="float:right">
 
-I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.
+I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.</p>
 
 I primarily study Prospect Theory, Mental Accounting, and consumer financial decision making. I am currently working on projects related to
   <p> 1) Credit card debt repayment (with Abby Sussman)
