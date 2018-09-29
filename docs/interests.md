@@ -3,8 +3,8 @@ layout: default
 description: Non-PhD Interests
 ---
 
-I like coffee more than a person probably should. The map below contains most of the shops I have been to since graduating college. Top Three are 
-1. Tim Wendelboe Oslo, Norway (Visited 3/18)
+I like coffee more than a person probably should. The map below contains most of the shops I have been to since graduating college. My current top three are 
+1.  <href src="https://www.timwendelboe.no/"> Tim Wendelboe  </href> Oslo, Norway (Visited 3/18)
 2. Trakteren Amsterdam, Netherlands (Visited 3/18)
 3. Onibus Coffee Tokyo, Japan (Visited 8/15)
 
