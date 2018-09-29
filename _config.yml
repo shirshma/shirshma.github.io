@@ -7,7 +7,7 @@ baseurl:             https://samhirshman.com
 #Pages for header  
 pages_list:       
   Contact: 'mailto:shirshma@chicagobooth.edu'
-  Interests: '/docs/interests.md'
+  Interests: '/docs/interests'
   CV: '/public/CV.pdf'
 
 
