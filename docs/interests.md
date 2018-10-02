@@ -15,8 +15,8 @@ I like coffee more than a person probably should. The map below contains most of
     </span>
     
 These days you will most likely find me at <span class="fn">
-      <a href="http://www.pleinaircafe.co/" target="_blank"> Plein Air Cafe</a> Tokyo, Japan (Visited 8/15)
-    </span> 
+      <a href="http://www.pleinaircafe.co/" target="_blank"> Plein Air Cafe</a>
+    </span> approximately .5 blocks from booth and two floors below. 
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q3F7PwfN9W2hqTMrI-XIJBoLrVo" width="640" height="480"></iframe>
