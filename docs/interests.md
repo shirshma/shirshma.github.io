@@ -11,7 +11,7 @@ I like coffee more than a person probably should. The map below contains most of
       <a href="http://www.trakterenkoffie.nl/" target="_blank">Trakteren Koffie  </a> Amsterdam, Netherlands (Visited 3/18)
     </span>
 3. <span class="fn">
-      <a href="http://www.onibuscoffee.com/" target="_blank"> Onibus Coffee Tokyo, Japan (Visited 8/15)</a>
+      <a href="http://www.onibuscoffee.com/" target="_blank"> Onibus Coffee</a> Tokyo, Japan (Visited 8/15)
     </span>
 
 
