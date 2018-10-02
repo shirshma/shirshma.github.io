@@ -3,7 +3,7 @@ layout: default
 description: Non-PhD Interests
 ---
 
-I like coffee more than a person probably should. The map below contains most of the shops I have been to since graduating college. My current top three are 
+I like coffee more than a person probably should. The map below contains most of the shops I have been to since graduating college. My current top three are probably 
 1.  <span class="fn">
       <a href="https://www.timwendelboe.no" target="_blank">Tim Wendelboe  </a> Oslo, Norway (Visited 3/18)
     </span>
