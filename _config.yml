@@ -30,3 +30,8 @@ gems:
   - jekyll-gist
   - jekyll-seo-tag
 
+#links
+links:
+  -link1:
+    url: https://www.timwendelboe.no/
+  
