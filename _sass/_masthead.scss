@@ -16,7 +16,7 @@ header h3 {
 
 .masthead-title {
     margin-top: 0;
-    color: $black;
+    color: #800400;
     font-weight: 300;
     font-size: 1.5em;
     display: block;
@@ -25,7 +25,7 @@ header h3 {
 }
 
 .masthead-title a {
-    color: #800400;
+    color: inherit;
     padding: 0.45rem;
     float: right;
     display: block;
