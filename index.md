@@ -9,7 +9,7 @@ I’m a PhD student in Behavioral Science at the University of Chicago Booth Sch
 
 I primarily study Prospect Theory, Mental Accounting, and consumer financial decision making. I am currently working on projects related to
   <p> 1) The ways minimum payments affect credit card debt repayment strategies across multiple cards<br>
-        Under review at JMR (with Abby Sussman)
+        (with Abby Sussman)
   
  <p> 2) <a href='/public/Website_mental_budgeting.pdf'> Mental Budgeting vs. Relative Thinking</a><br>
         AEA Papers and Proceedings (with Devin Pope and Jihong Song)
