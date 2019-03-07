@@ -19,7 +19,7 @@ I primarily study consumer financial decision making with an emphasis on Prospec
   <p>4) Metrics for detecting the ‘hot hand’ in basketball using waiting time properties of binomial distributions (with Connor Dowd and Nick Polson)
   
   
-<p>I am developing ideas related to the impacts of ownership on expectations loss aversion parameter estimation, non-parametric estimation of the probability weighting function, and reference dependence in field settings. 
+<p>I am developing ideas related to the impacts of ownership on expectations, loss averion and discounting parameter estimation, and reference dependence in field settings. 
 
 
 <p> Prior to starting my PhD, I worked at RAND in Boston doing health services research. 
