@@ -11,7 +11,7 @@ I primarily study consumer financial decision making with an emphasis on Prospec
   <p> 1) The ways minimum payments affect credit card debt repayment strategies across multiple cards<br>
         (with Abby Sussman)
   
-  <p> 2)The impacts of ownership on beliefs and expectations <br> (with Sam Hartzmark and Alex Imas)
+  <p> 2) The impacts of ownership on beliefs and expectations <br> (with Sam Hartzmark and Alex Imas)
   <p> 3) The way framing of wages affects work supply decisions <br> (with Luxi Shen)
  <p> 4) <a href='/public/Website_mental_budgeting.pdf'> Mental Budgeting vs. Relative Thinking</a><br>
         AEA Papers and Proceedings (with Devin Pope and Jihong Song)
