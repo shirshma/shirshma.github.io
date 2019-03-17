@@ -15,9 +15,8 @@ I primarily study consumer financial decision making with an emphasis on Prospec
   <p> 3) The way framing of wages affects work supply decisions <br> (with Luxi Shen)
  <p> 4) <a href='/public/Website_mental_budgeting.pdf'> Mental Budgeting vs. Relative Thinking</a><br>
         AEA Papers and Proceedings (with Devin Pope and Jihong Song)
- <!--- 
+
   <p>5) Metrics for detecting the ‘hot hand’ in basketball using waiting time properties of binomial distributions (with Connor Dowd and Nick Polson)
- --->
   
 <p>I am developing ideas related to the impacts of ownership on expectations, loss averion and discounting parameter estimation, and reference dependence in field settings. 
 
