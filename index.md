@@ -7,7 +7,7 @@ description: PhD student in Behavioral Science at University of Chicago's Booth 
 
 I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.
 
-I primarily study consumer financial decision making with an emphasis on Prospect Theory and Mental Acounting. I am currently working on projects related to
+I primarily study consumer financial decision making with an emphasis on Prospect Theory and Mental Accounting. I am currently working on projects related to
   <p> 1) The ways minimum payments affect credit card debt repayment strategies across multiple cards<br>
         (with Abby Sussman)
   
