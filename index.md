@@ -3,7 +3,7 @@ layout: default
 description: PhD student in Behavioral Science at University of Chicago's Booth School of Business
 ---
 
-<img src="public/sdh_headshot copy.jpg" alt="headshot" width="424" >
+<img src="public/sdh_headshot copy.jpg" alt="headshot" width="300" >
 
 I’m a PhD student in Behavioral Science at the University of Chicago Booth School of Business.
 
