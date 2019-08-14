@@ -16,7 +16,11 @@ While debt can provide important flexibility and opportunity for consumers, inte
    </p>
    </details>
   
-  <p> 2) The impacts of ownership on beliefs and expectations <br> (with Sam Hartzmark and Alex Imas)
+  <p><details><summary> 2) The impacts of ownership on beliefs and expectations <br> (with Sam Hartzmark and Alex Imas) </summary>
+  <p>
+    
+   </p>
+  </details>
   <p> 3) The way framing of wages affects work supply decisions <br> (with Luxi Shen)
  <p> 4) <a href='/public/Website_mental_budgeting.pdf'> Mental Budgeting vs. Relative Thinking</a><br>
         AEA Papers and Proceedings (with Devin Pope and Jihong Song)
