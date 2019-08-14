@@ -13,7 +13,7 @@ I primarily study consumer financial decision making with an emphasis on Prospec
   
   <p>2) The impacts of ownership on beliefs and expectations <br> (with Sam Hartzmark and Alex Imas, working paper) 
  
-  <p> 3) The way framing of wages affects work supply decisions <br> (with Luxi Shen, revise and resubmit <i> Management Science<i>)
+  <p> 3) The way framing of wages affects work supply decisions <br> (with Luxi Shen, revise and resubmit <i> Management Science</i>)
  <p> 4) <a href='/public/Website_mental_budgeting.pdf'> Mental Budgeting vs. Relative Thinking</a><br>
         AEA Papers and Proceedings (with Devin Pope and Jihong Song)
 
