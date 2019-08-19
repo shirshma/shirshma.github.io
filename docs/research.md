@@ -38,4 +38,5 @@ In jobs in which workers have the flexibility to decide how much work to supply,
    </p>
   </details>
   
+<p> Metrics for detecting the ‘hot hand’ in basketball using waiting time properties of binomial distributions (with Connor Dowd and Nick Polson)
   
