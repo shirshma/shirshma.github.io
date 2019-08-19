@@ -36,3 +36,5 @@ links:
   -link1:
     url: https://www.timwendelboe.no/
   
+
+theme: jekyll-theme-minimal
