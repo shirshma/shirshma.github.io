@@ -38,6 +38,6 @@ In jobs in which workers have the flexibility to decide how much work to supply,
     Consumers often make repeated purchase decisions. We investigate how owning a product alters learning about the owned goods as well as other products in the same category or made by the same brand. Across both experimentally controlled and naturally occurring purchase behavior, we show that owners (vs. non-owners) update their beliefs more extremely in response to new information. This exacerbates the effects of motivated reasoning in the positive domain, but attenuates it in the negative domain where it can even become more pessimistic than non-owners. We propose that differential attention to information drives these patterns of updating. Owners also report higher likelihood than non-owners of purchasing another product from a brand with a better product in our assessment task, but are no more likely to do so for for a brand with a worse product. Our results suggest that ownership alters the way consumers incorporate new information about related products and brands into their beliefs. In future studies we hope to extend these results using heightened salience of ownership through the use of real products in the lab, examining the impact of choice relative to random assignment to a product or brand, and other related topics including the endowment and disposition effects.
    </p>
   </details>
-  
+  <br>
 <p> Metrics for detecting the ‘hot hand’ in basketball using waiting time properties of binomial distributions (with Connor Dowd and Nick Polson)
   
