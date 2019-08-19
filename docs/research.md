@@ -11,7 +11,7 @@ description: Research Papers
     </details>
      
 
- <p><details><summary> The ways minimum payments affect credit card debt repayment strategies across multiple cards<br>
+ <p><details><summary> Paying More than the Minimum: Minimum Payments Lead to Suboptimal Debt Repayment Strategies across Multiple Cards<br>
   (with Abby Sussman, revise and resubmit <i>Journal of Consumer Research</i>)</summary>
   <p>
     <b>Abstract:</b>
