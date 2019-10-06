@@ -6,7 +6,7 @@ description: Research Papers
 **Published and Working Papers:**
 
   <p><details><summary> 
-  <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465246" target="_blank">Ownership, Learning, and Beliefs </a> </span> <br> (with Samuel M. Hartzmark and Alex Imas ) 
+  <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465246" target="_blank">Ownership, Learning, and Beliefs </a> </span> <br> (with <a href="https://sites.google.com/site/samhartzmark/">Samuel M. Hartzmark </a> and Alex Imas ) 
   </summary>
   <p>
     <b>Abstract:</b>
