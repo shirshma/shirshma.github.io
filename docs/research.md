@@ -11,6 +11,8 @@ description: Research Papers
   <p>
     <b>Abstract:</b>
     We study how ownership affects learning and beliefs. Using an experimental asset market, we find that owning a good leads people to over-extrapolate from signals about its underlying value: after seeing positive signals, people become too optimistic, after seeing negative signals, they become too pessimistic. This result holds relative to a Bayesian benchmark and compared to learning about goods they do not own. In fact, learning is less biased and more "correct" about goods that are not owned. We replicate these results in field data, showing that asset owners over-extrapolate nearly twice as much as non-owners from the same signals. 
+    
+    <div id="tttt_1184580960110682112" data-option="1"><strong><a href="https://threadreaderapp.com/thread/1184580960110682112.html">Thread by @HirshmanSam: "New WP with @alexoimas & @SamHartzmark on ownership and learning. papers.ssrn.com/sol3/papers.cf… TL;DR: Does ownership affect how peopl […]"</a></strong></div><script async src="https://threadreaderapp.com/embed/1184580960110682112.js" charset="utf-8"></script>
    </p>
   </details>
  
