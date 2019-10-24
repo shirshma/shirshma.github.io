@@ -38,7 +38,9 @@ In jobs in which workers have the flexibility to decide how much work to supply,
 
 <p>
 <strong>Works in Progress:</strong>
+  
 </p>
+
 <p><details><summary> Ownership Alters Learning and Beliefs about Products <br> (with Abigail B. Sussman, Samuel M. Hartzmark and Alex Imas) 
   </summary>
   <p> <b>Abstract:</b>
