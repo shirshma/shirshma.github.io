@@ -49,7 +49,7 @@ In jobs in which workers have the flexibility to decide how much work to supply,
   </details>
 <p><details><summary> When is Now?: Empirical Tests of Quasi-Hyperbolic Discounting <br>(with  <a href="https://home.uchicago.edu/bartels/">  Daniel M. Bartels</a>)</summary>
    <p> <b>Abstract:</b>
-Quasi-hyperbolic discounting (Laibson, 1997) is often used to model excessive impatience. Our project aims to better understand (i) how quasi-hyperbolic people’s preferences are and (ii) if they are, when does “now” end and the future start?. We find “now" periods including tomorrow and a week outperform a "now" period only including today, though all outperform an exponential model. In addition, participants’ best fitting "now” periods are sensitive to magnitudes. Even participants’ responses to questions with a year delay are best fit by a two-parameter model, a pattern inconsistent with the predictions of the quasi-hyperbolic model. 
+Quasi-hyperbolic discounting (Laibson, 1997) is often used to model excessive impatience. Our project aims to better understand (i) how quasi-hyperbolic people’s preferences are and (ii) if they are, when does “now” end and the future start? We find “now" periods including tomorrow and a week outperform a "now" period only including today, though all outperform an exponential model. In addition, participants’ best fitting "now” periods are sensitive to magnitudes. Even participants’ responses to questions with a year delay are best fit by a two-parameter model, a pattern inconsistent with the predictions of the quasi-hyperbolic model. 
  </p>
  </details>
  
