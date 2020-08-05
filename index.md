@@ -1,6 +1,6 @@
 ---
 layout: default
-description: PhD student in Behavioral Science at University of Chicago's Booth School of Business
+description: Who am I?
 ---
 
 <p align="center"><img src="public/sdh_headshot copy.jpg" alt="headshot" width="300" ></p>
