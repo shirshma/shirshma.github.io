@@ -14,9 +14,9 @@ I like coffee more than a person probably should. The map below contains most of
       <a href="http://www.onibuscoffee.com/" target="_blank"> Onibus Coffee</a> Tokyo, Japan (Visited 8/15)
     </span>
     
-These days you will most likely find me at <span class="fn">
+My PhD was fueld by coffee at <span class="fn">
       <a href="http://www.pleinaircafe.co/" target="_blank"> Plein Air Cafe</a>
-    </span> approximately .5 blocks from Booth and two floors below my office. 
+    </span> approximately .5 blocks from Booth and two floors below my old office. If you are in Hyde Park, it's highly recommended. 
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q3F7PwfN9W2hqTMrI-XIJBoLrVo" width="510" height="480"></iframe>
