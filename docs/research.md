@@ -53,5 +53,5 @@ Quasi-hyperbolic discounting (Laibson, 1997) is often used to model excessive im
  </p>
  </details>
  
-<p> <details><summary>Metrics for detecting the ‘hot hand’ in basketball using waiting time properties of binomial distributions (with Connor Dowd and Nick Polson)</summary></details>
+<p> <details><summary>Metrics for detecting the ‘hot hand’ in basketball using waiting time properties of binomial distributions (with<a href="http://www.codowd.com/"> Connor Dowd</a> and Nick Polson)</summary></details>
   
