@@ -3,7 +3,7 @@ layout: default
 description: Research Papers
 --- 
 
-**Published and Working Papers:**
+<p align="center"><strong>Published and Working Papers:</strong></p>
 
   <p><details><summary> 
   <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465246" target="_blank">Ownership, Learning, and Beliefs </a> </span> <br> (with <a href="https://sites.google.com/site/samhartzmark/">Samuel M. Hartzmark</a> and <a href="http://www.aleximas.com/"> Alex Imas</a>) 
@@ -36,8 +36,7 @@ In jobs in which workers have the flexibility to decide how much work to supply,
     </p>
     </details>
 
-<p>
-<strong>Works in Progress:</strong>
+<p align="center"><strong>Works in Progress:</strong>
   
 </p>
 
