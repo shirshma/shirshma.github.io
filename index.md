@@ -10,5 +10,5 @@ I’m a Rearch Associate at University of Colorado Leeds School of Business and 
 <p> Prior to starting my PhD, I worked at RAND in Boston doing health services research. I graduated from Swarthmore College in 2013. 
 
 <p>
-Email me at <a href="mailto:shirshma@chicagobooth.edu">shirshma@chicagobooth.edu</a>.
+Email me at <a href="mailto:samuel.hirshman@colorado.edu">samuel.hirshman@colorado.edu</a>.
 
