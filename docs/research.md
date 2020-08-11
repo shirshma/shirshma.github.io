@@ -6,7 +6,7 @@ description: Research Papers
 <p align="center"><strong>Published and Working Papers:</strong></p>
 
   <p><details><summary> 
-  <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465246" target="_blank">Ownership, Learning, and Beliefs </a> </span> <br> (with <a href="https://sites.google.com/site/samhartzmark/">Samuel M. Hartzmark</a> and <a href="http://www.aleximas.com/"> Alex Imas</a>, revise and resubmit <i>Quarterly Journal of Economics</i> ) 
+  <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465246" target="_blank">Ownership, Learning, and Beliefs </a> </span> <br> (with <a href="https://sites.google.com/site/samhartzmark/">Samuel M. Hartzmark</a> and <a href="http://www.aleximas.com/"> Alex Imas</a>) <br> revise and resubmit <i>Quarterly Journal of Economics</i> 
   </summary>
   <p>
     <b>Abstract:</b>
@@ -16,13 +16,13 @@ description: Research Papers
   </details>
  
  <p><details><summary> Minimum Payments Alter Debt Repayment Strategies across Multiple Cards<br>
-  (with <a href="https://faculty.chicagobooth.edu/abigail-sussman"> Abigail B. Sussman</a>, revise and resubmit <i>Journal of Marketing </i>)</summary>
+  (with <a href="https://faculty.chicagobooth.edu/abigail-sussman"> Abigail B. Sussman</a>)<br> revise and resubmit <i>Journal of Marketing </i></summary>
   <p>
     <b>Abstract:</b>
 US Households currently hold $808 billion of credit card debt and manage repayments across multiple cards. We investigate how minimum payments (i.e., the requirement to allocate some amount of money to each account with a balance) alter consumers’ allocation strategies. We first document in field data that consumers spread debt repayment allocations across more accounts than would be predicted by previously documented strategies.  Next, we use a debt management task with an incentive compatible design to investigate how minimum payments alter debt repayment strategies. We find that minimum payments cause consumers to allocate more than the minimum to a greater number of accounts, which we term the dispersion effect of minimum payments. This dispersion effect interferes with the implementation of the optimal strategy. Finally, we provide evidence of an underlying mechanism in which minimum payment requirements lead to increased dispersion by altering the size of the consideration set.
    </p>
    </details>
-    <p><details><summary> As Wages Increase, Do People Work More or Less? A Wage Frame Effect (with <a href="http://www.luxishen.com/"> Luxi Shen</a>, revise and resubmit <i>Management Science</i>)</summary>
+    <p><details><summary> As Wages Increase, Do People Work More or Less? A Wage Frame Effect <br>(with <a href="http://www.luxishen.com/"> Luxi Shen</a>)<br> revise and resubmit <i>Management Science</i></summary>
 <p>
     <b>Abstract:</b>
 In jobs in which workers have the flexibility to decide how much work to supply, such as in the gig economy, the effect of a wage change on work supply can be hard to predict. A wage increase, for example, offers workers the opportunity to make more money, so they may want to work more, but at the same time, it allows them to enjoy more leisure, so they do not need to work so much. Economic theory alone does not predict which outcome is more likely to occur, and empirical evidence on the short-term effect of wage change on work supply is also mixed. This research provides some psychological insights into this economic problem by showing that the effect of wage change on work supply depends on how the change is framed. Specifically, for a worker who used to work A hours to earn $X, if the wage change is presented as a payment change (“work the same A hours and earn $Y”), then work supply is expected to change in the same direction as the wage change. By contrast, if the wage change is presented as a workload change (“work B hours and earn the same $X”), then work supply is expected to change in the opposite direction of the wage change. This wage frame effect occurs because in multi-attribute decisions, decision makers assign greater weight to attributes that change than to those that remain constant. A series of experiments (total N = 2,599) demonstrates the wage frame effect on both expressed willingness-to-work and actual work performance, and tests the proposed account as well as alternative explanations. Since any wage change has to be communicated with some specific frame, the choice of the frame can have powerful effects. In fact, it is even possible for a wage decrease to elicit the same increase in work supply as a wage increase. This research (a) offers psychological insights into a classic economic problem, (b) documents a novel framing effect for the judgment and decision-making literature, and (c) suggests a nudge idea in incentive designs to managers and policy makers.
@@ -30,7 +30,7 @@ In jobs in which workers have the flexibility to decide how much work to supply,
 </details>
  
  <p> <details><summary><a href='/public/pandp.20181095.pdf'> Mental Budgeting vs. Relative Thinking</a>
-  <br> (with <a href="https://faculty.chicagobooth.edu/devin.pope/">  Devin G. Pope</a> and Jihong Song,  <i>AEA Papers and Proceedings</i>, May 2018)</summary>
+  <br> (with <a href="https://faculty.chicagobooth.edu/devin.pope/">  Devin G. Pope</a> and Jihong Song)<br>  <i>AEA Papers and Proceedings</i>, May 2018 </summary>
     <p>  <b>Abstract:</b>
     A growing literature uses economic behaviors in field settings to test predictions generated by various psychological models. In some cases, psychological theories make conflicting predictions for the same consumer context. In this paper, we attempt to reconcile two conflicting predictions about upgrading behavior, one made by category budgeting (e.g.,Heath and Soll, 1996, Thaler, 1985)—which suggests people will upgrade less as prices go up—and one made by relative thinking (e.g., Kahneman and Tversky, 1981)—which suggests people will upgrade more as prices go up.
     </p>
