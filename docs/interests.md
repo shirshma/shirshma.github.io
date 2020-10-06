@@ -13,6 +13,9 @@ I like coffee more than a person probably should. The map below contains most of
 3. <span class="fn">
       <a href="http://www.onibuscoffee.com/" target="_blank"> Onibus Coffee</a> Tokyo, Japan (Visited 8/15)
     </span>
+4. <span class="fn">
+      <a href="https://www.instagram.com/itswhatevercoffee/?hl=en" target="_blank"> Whatever Coffee</a> New Orleans, LA (Visited 2/20)
+    </span>
     
 My PhD was fueled by coffee at <span class="fn">
       <a href="http://www.pleinaircafe.co/" target="_blank"> Plein Air Cafe</a>
