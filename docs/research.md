@@ -40,6 +40,19 @@ In jobs in which workers have the flexibility to decide how much work to supply,
 <p align="center"><strong>Works in Progress:</strong>
   
 </p>
+<p><details><summary> The Interplay of Beliefs and Preferences in Driving the Disposition Effect </summary>
+  <p> <b>Abstract:</b>
+
+I examine how biased beliefs interact with preferences to produce one of the most well-studied behavioral anomalies in finance, the disposition effect. I find that participants' beliefs are conservative relative to Bayesian. Participants are more likely to sell goods that a Bayesian would believe are more likely to go up in price; however, they are less likely to sell goods they believe are more likely to go up in price. Then, using both reduced form and structural estimates, I compare the preference parameters necessary to rationalize the disposition effect using Bayesian beliefs, as is standard, to those estimated using subjective beliefs. I find that using participants' subjective beliefs implies a larger influence of realization utility in selling decisions. 
+  </p>
+  </details>
+
+<p><details><summary> Body-Worn Cameras and Racial Disparities in Policing: Evidence from the NYPD </summary>
+  <p> <b>Abstract:</b>
+
+Racial disparities plague the American criminal justice system and disproportionately impact Black Americans. Local governments face substantial challenges in improving the quality of policing and many are looking for implementable changes. One popular proposal to improve policing is the use of Body-Worn Cameras (BWCs), which record officers' interactions with civilians, and are supposed to increase police accountability. My paper focuses specifically on the racial dynamics of police interactions following introduction of BWCs to the New York Police Department's (NYPD) precincts. I document a significant increase in stops of Black New Yorkers relative to white New Yorkers after the introduction of BWCs to a precinct. The increases in stops are accompanied by increases in arrests and use of force. I provide suggestive evidence, using data on discretionary arrests, that the cameras improve reporting quality suggesting previous underreporting to the SQF database. 
+  </p>
+  </details>
 
 <p><details><summary> Ownership Alters Learning and Beliefs about Products <br> (with Abigail B. Sussman, Samuel M. Hartzmark and Alex Imas) 
   </summary>
@@ -47,11 +60,14 @@ In jobs in which workers have the flexibility to decide how much work to supply,
     Consumers often make repeated purchase decisions. We investigate how owning a product alters learning about the owned goods as well as other products in the same category or made by the same brand. Across both experimentally controlled and naturally occurring purchase behavior, we show that owners (vs. non-owners) update their beliefs more extremely in response to new information. This exacerbates the effects of motivated reasoning in the positive domain, but attenuates it in the negative domain where it can even become more pessimistic than non-owners. We propose that differential attention to information drives these patterns of updating. Owners also report higher likelihood than non-owners of purchasing another product from a brand with a better product in our assessment task, but are no more likely to do so for for a brand with a worse product. Our results suggest that ownership alters the way consumers incorporate new information about related products and brands into their beliefs. 
    </p>
   </details>
+  
+  <!---
 <p><details><summary> When is Now?: Empirical Tests of Quasi-Hyperbolic Discounting <br>(with  <a href="https://home.uchicago.edu/bartels/">  Daniel M. Bartels</a>)</summary>
    <p> <b>Abstract:</b>
 Quasi-hyperbolic discounting (Laibson, 1997) is often used to model excessive impatience. Our project aims to better understand (i) how quasi-hyperbolic people’s preferences are and (ii) if they are, when does “now” end and the future start? We find “now" periods including tomorrow and a week outperform a "now" period only including today, though all outperform an exponential model. In addition, participants’ best fitting "now” periods are sensitive to magnitudes. Even participants’ responses to questions with a year delay are best fit by a two-parameter model, a pattern inconsistent with the predictions of the quasi-hyperbolic model. 
  </p>
  </details>
+--->
  
 <p> <details><summary>Metrics for detecting the ‘hot hand’ in basketball using waiting time properties of binomial distributions (with<a href="http://www.codowd.com/"> Connor Dowd</a> and Nick Polson)</summary></details>
   
