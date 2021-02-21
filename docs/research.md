@@ -53,7 +53,7 @@ I examine how biased beliefs interact with preferences to produce one of the mos
 Racial disparities plague the American criminal justice system and disproportionately impact Black Americans. Local governments face substantial challenges in improving the quality of policing and many are looking for implementable changes. One popular proposal to improve policing is the use of Body-Worn Cameras (BWCs), which record officers' interactions with civilians, and are supposed to increase police accountability. My paper focuses specifically on the racial dynamics of police interactions following introduction of BWCs to the New York Police Department's (NYPD) precincts. I document a significant increase in stops of Black New Yorkers relative to white New Yorkers after the introduction of BWCs to a precinct. The increases in stops are accompanied by increases in arrests and use of force. I provide suggestive evidence, using data on discretionary arrests, that the cameras improve reporting quality suggesting previous underreporting to the SQF database. 
   </p>
   </details>
-
+  <!---
 <p><details><summary> Ownership Alters Learning and Beliefs about Products <br> (with Abigail B. Sussman, Samuel M. Hartzmark and Alex Imas) 
   </summary>
   <p> <b>Abstract:</b>
@@ -61,7 +61,7 @@ Racial disparities plague the American criminal justice system and disproportion
    </p>
   </details>
   
-  <!---
+
 <p><details><summary> When is Now?: Empirical Tests of Quasi-Hyperbolic Discounting <br>(with  <a href="https://home.uchicago.edu/bartels/">  Daniel M. Bartels</a>)</summary>
    <p> <b>Abstract:</b>
 Quasi-hyperbolic discounting (Laibson, 1997) is often used to model excessive impatience. Our project aims to better understand (i) how quasi-hyperbolic people’s preferences are and (ii) if they are, when does “now” end and the future start? We find “now" periods including tomorrow and a week outperform a "now" period only including today, though all outperform an exponential model. In addition, participants’ best fitting "now” periods are sensitive to magnitudes. Even participants’ responses to questions with a year delay are best fit by a two-parameter model, a pattern inconsistent with the predictions of the quasi-hyperbolic model. 
