@@ -45,17 +45,17 @@ header h3 {
 }
 
 .masthead-title a.home:hover {
-    color: $maroon;
+    color: $offyellow;
     background-color: $body-bg;
 }
 
 .masthead-title a.home:hover small {
-    color: $maroon;
+    color: $offyellow;
 }
 
 .masthead-title a:hover {
     background-color: #eee;
-    color: $maroon;
+    color: $offyellow;
 }
 
 .masthead-title .icon {
@@ -73,7 +73,7 @@ header h3 {
     }
     .masthead-title a.icon:hover {
         background-color: $body-bg;
-      color: $maroon;
+      color: $offyellow;
     }
     .masthead-title.responsive {
         position:relative;
