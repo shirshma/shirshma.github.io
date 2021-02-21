@@ -61,7 +61,9 @@ header h3 {
 .masthead-title .icon {
     display: none;
 }
-
+.masthead-title a small {
+  opacity: 1
+}
 @media screen and (max-width: $large-breakpoint) {
     .masthead-title a:not(:first-child) {
         display:none;
