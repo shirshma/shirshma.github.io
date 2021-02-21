@@ -6,7 +6,7 @@ baseurl:             https://samhirshman.com
 
 #Pages for header  
 pages_list:       
-  Contact: 'mailto:shirshma@chicagobooth.edu'
+  Contact: 'mailto:samuel.hirshman@colorado.edu'
   Coffee: '/docs/interests'
   CV: '/public/CV1.pdf'
   Research: '/docs/research'
