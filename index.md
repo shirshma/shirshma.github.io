@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Who am I?
+description: Sam Hirshman's homepage
 ---
 
 <p align="center"><img src="public/sdh_headshot copy.jpg" alt="headshot" width="300" ></p>
