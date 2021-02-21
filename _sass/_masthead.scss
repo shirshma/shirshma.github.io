@@ -35,7 +35,6 @@ header h3 {
     text-decoration: none;
     font-size: 1.3rem;
      font-weight: 400;
-    color: $body-bg;
 }
 
 .masthead-title a.home {
@@ -74,6 +73,7 @@ header h3 {
     }
     .masthead-title a.icon:hover {
         background-color: $body-bg;
+      color: $maroon;
     }
     .masthead-title.responsive {
         position:relative;
