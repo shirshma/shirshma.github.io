@@ -18,7 +18,7 @@ header h3 {
 
 .masthead-title {
     margin-top: 0;
-    color: #b19539;
+    color: $body-bg;
     font-weight: 300;
     font-size: 1.5em;
     display: block;
@@ -34,7 +34,7 @@ header h3 {
     text-align: center;
     text-decoration: none;
     font-size: 1.3rem;
-    color: #b19539;
+    color: $body-bg;
 }
 
 .masthead-title a.home {
