@@ -62,7 +62,7 @@ header h3 {
     display: none;
 }
 .masthead-title a small {
-  opacity: .75
+  opacity: .75;
 }
 @media screen and (max-width: $large-breakpoint) {
     .masthead-title a:not(:first-child) {
