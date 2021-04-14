@@ -46,14 +46,14 @@ In jobs in which workers have the flexibility to decide how much work to supply,
 I examine how biased beliefs interact with preferences to produce one of the most well-studied behavioral anomalies in finance, the disposition effect. I find that participants' beliefs are conservative relative to Bayesian. Participants are more likely to sell goods that a Bayesian would believe are more likely to go up in price; however, they are less likely to sell goods they believe are more likely to go up in price. Then, using both reduced form and structural estimates, I compare the preference parameters necessary to rationalize the disposition effect using Bayesian beliefs, as is standard, to those estimated using subjective beliefs. I find that using participants' subjective beliefs implies a larger influence of realization utility in selling decisions. 
   </p>
   </details>
-
+  <!---
 <p><details><summary> Body-Worn Cameras and Racial Disparities in Policing: Evidence from the NYPD </summary>
   <p> <b>Abstract:</b>
 
 Racial disparities plague the American criminal justice system and disproportionately impact Black Americans. Local governments face substantial challenges in improving the quality of policing and many are looking for implementable changes. One popular proposal to improve policing is the use of Body-Worn Cameras (BWCs), which record officers' interactions with civilians, and are supposed to increase police accountability. My paper focuses specifically on the racial dynamics of police interactions following introduction of BWCs to the New York Police Department's (NYPD) precincts. I document a significant increase in stops of Black New Yorkers relative to white New Yorkers after the introduction of BWCs to a precinct. The increases in stops are accompanied by increases in arrests and use of force. I provide suggestive evidence, using data on discretionary arrests, that the cameras improve reporting quality suggesting previous underreporting to the SQF database. 
   </p>
   </details>
-  <!---
+
 <p><details><summary> Ownership Alters Learning and Beliefs about Products <br> (with Abigail B. Sussman, Samuel M. Hartzmark and Alex Imas) 
   </summary>
   <p> <b>Abstract:</b>
