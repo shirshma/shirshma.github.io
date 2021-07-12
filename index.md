@@ -10,5 +10,5 @@ I’m a Post Doc at the CU-Boulder Leeds School of Business. In Fall 2021, I wil
 <p> Prior to starting my PhD, I worked at RAND in Boston doing health services research. I graduated from Swarthmore College in 2013. 
 
 <p>
-Email me at <a href="mailto:samuel.hirshman@colorado.edu">samuel.hirshman@colorado.edu</a>.
+Email me at <a href="mailto:samuel.hirshman@nhh.no">samuel.hirshman@nhh.no</a>.
 
