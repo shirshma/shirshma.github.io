@@ -4,7 +4,13 @@ description: Research Papers
 --- 
 
 <p align="center"><strong>Published:</strong></p>
-
+<p><details><summary><a href='https://journals.sagepub.com/doi/abs/10.1177/00222429211047237' target="_blank"> Minimum Payments Alter Debt Repayment Strategies across Multiple Cards</a><br>
+  (with <a href="https://faculty.chicagobooth.edu/abigail-sussman"> Abigail B. Sussman</a>)<br>  accepted <i>Journal of Marketing </i></summary>
+  <p>
+    <b>Abstract:</b>
+US Households currently hold $770 billion in credit card debt, often managing repayments across multiple accounts. We investigate how minimum payments (i.e., the requirement to allocate at least some money to each account with a balance) alter consumers’ allocation strategies across multiple accounts. Across four experiments, we find that minimum payment requirements cause consumers to increase dispersion (i.e., spread their repayments more evenly) across accounts. We term this change in strategy the dispersion effect of minimum payments and provide evidence that it can be costly for consumers. We find that the effect is partially driven by the tendency for consumers to interpret minimum payment requirements as recommendations to pay more than the minimum amount. While the presence of the minimum payment requirement is unlikely to change, we propose that marketers and policymakers can influence the effects of minimum payments on dispersion by altering the way that information is displayed to consumers. Specifically, we investigate five distinct information displays and find that choice of display can either exaggerate or minimize dispersion and corresponding costs. We discuss implications for consumers, policy makers, and firms, with a particular focus on ways to improve consumer financial well-being.
+   </p>
+   </details>
   <p><details><summary> 
   <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465246" target="_blank">Ownership, Learning, and Beliefs </a> </span> <br> (with <a href="https://sites.google.com/site/samhartzmark/">Samuel M. Hartzmark</a> and <a href="http://www.aleximas.com/"> Alex Imas</a>) <br> <i>Quarterly Journal of Economics</i>, August, 2021 
   </summary>
@@ -23,13 +29,7 @@ description: Research Papers
     </details>
   <br>
 <p align="center"><strong>Working Papers:</strong>
-<p><details><summary> Minimum Payments Alter Debt Repayment Strategies across Multiple Cards<br>
-  (with <a href="https://faculty.chicagobooth.edu/abigail-sussman"> Abigail B. Sussman</a>)<br>  accepted <i>Journal of Marketing </i></summary>
-  <p>
-    <b>Abstract:</b>
-US Households currently hold $808 billion in credit card debt, often managing repayments across multiple accounts. We investigate how minimum payments (i.e., the requirement to allocate at least some money to each account with a balance) alter consumers’ allocation strategies across multiple accounts. Across four experiments, we find that minimum payment requirements cause consumers to spread their repayments more evenly (i.e., increase dispersion) across accounts. We term this change in strategy the dispersion effect of minimum payments and provide evidence that it can be costly for consumers. We find that the effect is partially driven by the tendency for consumers to interpret minimum payment requirements as recommendations to pay more than the minimum amount. While the presence of the minimum payment requirement is unlikely to change, we propose that marketers and policymakers can influence the effects of minimum payments on the dispersion effect by altering the way that information is displayed to consumers. Specifically, we investigate five distinct information displays and find that choice of display can either exaggerate or minimize the dispersion effect and corresponding costs.
-   </p>
-   </details>
+
     <p><details><summary> As Wages Increase, Do People Work More or Less? A Wage Frame Effect <br>(with <a href="http://www.luxishen.com/"> Luxi Shen</a>)<br> revise and resubmit <i>Management Science</i></summary>
 <p>
     <b>Abstract:</b>
