@@ -4,7 +4,7 @@ description: Research Papers
 --- 
 
 <p align="center"><strong>Published:</strong></p>
-<p><details><summary><a href='https://journals.sagepub.com/doi/abs/10.1177/00222429211047237' target="_blank"> Minimum Payments Alter Debt Repayment Strategies across Multiple Cards</a><br>
+<p><details><summary><a href='https://doi.org/10.1177/00222429211047237' target="_blank"> Minimum Payments Alter Debt Repayment Strategies across Multiple Cards</a><br>
   (with <a href="https://faculty.chicagobooth.edu/abigail-sussman"> Abigail B. Sussman</a>)<br>  accepted <i>Journal of Marketing </i></summary>
   <p>
     <b>Abstract:</b>
