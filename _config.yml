@@ -8,7 +8,7 @@ baseurl:             https://samhirshman.com
 pages_list:       
   Contact: 'mailto:samuel.hirshman@nhh.no'
   Coffee: '/docs/interests'
-  CV: '/public/CV1.pdf'
+  CV: '/public/CV.pdf'
   Research: '/docs/research'
 
 
