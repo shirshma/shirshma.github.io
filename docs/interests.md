@@ -23,3 +23,8 @@ My PhD was fueled by coffee at <span class="fn">
 
 
 <p align="center"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q3F7PwfN9W2hqTMrI-XIJBoLrVo" width="600" height="480"></iframe></p>
+
+Map Colors: 
+* Green: City highlight
+* Blue: Visited
+* Orange: Tagged but not visited
