@@ -47,7 +47,7 @@ In jobs in which workers have the flexibility to decide how much work to supply,
   </p>
    </details>
 
-<p><details><summary>Does Incerasing Risk Widen Gender Gaps? (with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> )  </summary>
+<p><details><summary>Does Increasing Risk Widen Gender Gaps? (with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> )  </summary>
 </p>
    </details>
 
