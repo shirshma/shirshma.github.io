@@ -40,13 +40,25 @@ In jobs in which workers have the flexibility to decide how much work to supply,
 <p align="center"><strong>Works in Progress:</strong>
   
 </p>
+<p><details><summary>The Effect of Job Loss on Risky Decision-Making (with Daniel O'Leary, Abigail B. Sussman, and <a href="https://computationaldecisionlab.wordpress.com/.com/">Jennifer Trueblood) </a> </summary>
+</p>
+  </details>
+<p><details><summary>Tests of Rank-dependent Probability Weighting in Risky Choice (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu </a>)  </summary>
+  </p>
+   </details>
+
+<p><details><summary>Does Incerasing Risk Widen Gender Gaps? (with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> )  </summary>
+</p>
+   </details>
+
+  <!---
 <p><details><summary> The Interplay of Beliefs and Preferences in Driving the Disposition Effect </summary>
   <p> <b>Abstract:</b>
 
 I examine how biased beliefs interact with preferences to produce one of the most well-studied behavioral anomalies in finance, the disposition effect. I find that participants' beliefs are conservative relative to Bayesian. Participants are more likely to sell goods that a Bayesian would believe are more likely to go up in price; however, they are less likely to sell goods they believe are more likely to go up in price. Then, using both reduced form and structural estimates, I compare the preference parameters necessary to rationalize the disposition effect using Bayesian beliefs, as is standard, to those estimated using subjective beliefs. I find that using participants' subjective beliefs implies a larger influence of realization utility in selling decisions. 
   </p>
   </details>
-  <!---
+
 <p><details><summary> Body-Worn Cameras and Racial Disparities in Policing: Evidence from the NYPD </summary>
   <p> <b>Abstract:</b>
 
