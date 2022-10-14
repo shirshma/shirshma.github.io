@@ -40,7 +40,7 @@ In jobs in which workers have the flexibility to decide how much work to supply,
 <p align="center"><strong>Works in Progress:</strong>
   
 </p>
-<p><details><summary>The Effect of Job Loss on Risky Decision-Making (with Daniel O'Leary, Abigail B. Sussman, and <a href="https://computationaldecisionlab.wordpress.com/.com/">Jennifer Trueblood) </a> </summary>
+<p><details><summary>The Effect of Job Loss on Risky Decision-Making (with Daniel O'Leary, Abigail B. Sussman, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> </summary>
 </p>
   </details>
 <p><details><summary>Tests of Rank-dependent Probability Weighting in Risky Choice (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu </a>)  </summary>
