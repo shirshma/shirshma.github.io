@@ -41,14 +41,14 @@ In jobs in which workers have the flexibility to decide how much work to supply,
   
 </p>
 <p><details><summary>The Effect of Job Loss on Risky Decision-Making (with Daniel O'Leary, Abigail B. Sussman, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> </summary>
-</p>
+
   </details>
 <p><details><summary>Tests of Rank-dependent Probability Weighting in Risky Choice (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu </a>)  </summary>
-  </p>
+ 
    </details>
 
 <p><details><summary>Does Increasing Risk Widen Gender Gaps? (with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> )  </summary>
-</p>
+
    </details>
 
   <!---
