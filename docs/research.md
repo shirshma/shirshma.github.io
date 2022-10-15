@@ -79,7 +79,8 @@ Racial disparities plague the American criminal justice system and disproportion
 Quasi-hyperbolic discounting (Laibson, 1997) is often used to model excessive impatience. Our project aims to better understand (i) how quasi-hyperbolic people’s preferences are and (ii) if they are, when does “now” end and the future start? We find “now" periods including tomorrow and a week outperform a "now" period only including today, though all outperform an exponential model. In addition, participants’ best fitting "now” periods are sensitive to magnitudes. Even participants’ responses to questions with a year delay are best fit by a two-parameter model, a pattern inconsistent with the predictions of the quasi-hyperbolic model. 
  </p>
  </details>
---->
+
  
 <p> <details><summary>Metrics for detecting the ‘hot hand’ in basketball using waiting time properties of binomial distributions (with<a href="http://www.codowd.com/"> Connor Dowd</a> and Nick Polson)</summary></details>
   
+--->
