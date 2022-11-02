@@ -38,7 +38,7 @@ US Households currently hold $770 billion in credit card debt, often managing re
   <br>
 <p align="center"><strong>Working Papers:</strong>
 
-<details><summary>Does Increasing Risk Widen Gender Gaps? (with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) <br> Full paper </summary>
+<details><summary>Does Increasing Risk Widen Gender Gaps? (with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) </summary>
   <p>  <b>Abstract:</b>
  Using unique individual-level student data, we study the behavioral response to an exogenous change in the risk profile of a key educational choice -- the decision to request a regrade. We demonstrate how ostensibly gender-neutral policies can generate unintended gaps across men and women because they systematically differ in their perceptions of risk and risk tolerance. The educational choices we examine have consequential downstream implications for students and disproportionately benefit men because men are increasingly more willing to ask for regrades following the policy change. Our results advance our understanding of how gender differences identified in the lab manifest when men and women are making real world decisions.
 </details>
