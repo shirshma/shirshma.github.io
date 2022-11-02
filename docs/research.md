@@ -36,7 +36,7 @@ US Households currently hold $770 billion in credit card debt, often managing re
     </p>
     </details>
   <br>
-<p align="center"><strong>Working Papers:</strong>
+<p align="center"><strong>Working Papers:</strong></p>
 
 <details><summary>Does Increasing Risk Widen Gender Gaps? (with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) </summary>
   <p>  <b>Abstract:</b>
