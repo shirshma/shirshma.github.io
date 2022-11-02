@@ -38,12 +38,12 @@ US Households currently hold $770 billion in credit card debt, often managing re
   <br>
 <p align="center"><strong>Working Papers:</strong></p>
 
-<details><summary>Does Increasing Risk Widen Gender Gaps? (with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) </summary>
+<details><summary>Does Increasing Risk Widen Gender Gaps? <br>(with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) </summary>
   <p>  <b>Abstract:</b>
  Using unique individual-level student data, we study the behavioral response to an exogenous change in the risk profile of a key educational choice -- the decision to request a regrade. We demonstrate how ostensibly gender-neutral policies can generate unintended gaps across men and women because they systematically differ in their perceptions of risk and risk tolerance. The educational choices we examine have consequential downstream implications for students and disproportionately benefit men because men are increasingly more willing to ask for regrades following the policy change. Our results advance our understanding of how gender differences identified in the lab manifest when men and women are making real world decisions.
 </details>
 
-<details><summary>The Effect of Job Loss on Risky Decision-Making (with Daniel O'Leary, Abigail B. Sussman, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> </summary>
+<details><summary>The Effect of Job Loss on Risky Decision-Making <br> (with Daniel O'Leary, Abigail B. Sussman, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> </summary>
 <p>  <b>Abstract:</b>
 The unemployment rate in the United States reached 14.7%, 23.1 million people, in 2020. While negative effects of unemployment on health and well-being are well-understood, the influence of job loss on  decision-making has received little attention. Across  a large-scale survey (N = 37,854) and three controlled experiments (total N=2005), we find that job loss increases risky decision making. First, in survey data, we find that job-loss among survey respondents is associated with elevated levels of risky decision-making across financial and non-financial contexts. Further, participants who have lost their jobs more recently make riskier decisions. Next, we find that an incentive-compatible manipulation of job loss in a lab setting increases take-up of financial risks. Shifting participants into the domain of losses appears to underlie this pattern.  These findings have implications for individuals and policymakers as the decision to engage in risky behaviors can have negative long-term physical, financial, and psychosocial consequences.
 </details>
