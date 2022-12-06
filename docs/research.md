@@ -53,7 +53,7 @@ The unemployment rate in the United States reached 14.7%, 23.1 million people, i
     
 </details>
 
-
+<br>
 <p align="center"><strong>Works in Progress:</strong>
   
 
