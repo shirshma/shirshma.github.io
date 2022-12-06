@@ -44,7 +44,7 @@ US Households currently hold $770 billion in credit card debt, often managing re
 We examine the response to an exogenous change in the risk profile of an important educational choice -- requesting a regrade. We demonstrate how ostensibly gender-neutral policies can generate gaps across men and women because they differ in their perceptions of risk. Specifically, we show that an exogenous shift in the risk of requesting a regrade augmented the regrade request gap by nearly 100 percent. We show that this has consequential implications for students through its impact on their grade points. These findings reveal how gender differences identified in the lab manifest when men and women make real world decisions.
     
 </details>
-
+<br>
 <details>
 <summary>The Effect of Job Loss on Risky Decision-Making <br> (with Daniel O'Leary, Abigail B. Sussman, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> 
 </summary>
