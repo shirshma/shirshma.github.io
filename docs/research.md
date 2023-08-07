@@ -58,11 +58,13 @@ The unemployment rate in the United States reached 14.7%, 23.1 million people, i
   
 
 <p><details><summary>Tests of Rank-dependent Probability Weighting in Risky Choice (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu </a>)  </summary>
- 
    </details>
-
-
-
+ <!---
+<p><details><summary>
+Reference Dependent Expectations of Inequality (with <a href="https://sites.google.com/view/alexander-w-cappelen/home"> Alexander W. Cappelen </a>, <a href="https://sites.google.com/view/alexander-w-cappelen/home"> Matthew Rabin )
+ </summary>
+   </details>
+---->
   <!---
 <p><details><summary> The Interplay of Beliefs and Preferences in Driving the Disposition Effect </summary>
   <p> <b>Abstract:</b>
