@@ -64,12 +64,11 @@ The unemployment rate in the United States reached 14.7%, 23.1 million people, i
 <p><details><summary>
     Would You Use a South-Pointing Compass? Consumers Underestimate the Informativeness of Systematic Errors and Disagreement (with  Jay Naborn, <a href="https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=perfecto"> Hannah Perfecto </a>,  <a href="https://quentinandre.net/">  Quentin Andre </a>, and  <a href="https://reinholtzresearch.com/">  Nick Reinholtz</a>)  </summary>
    </details>
- <!---
 <p><details><summary>
-Reference Dependent Expectations of Inequality (with <a href="https://sites.google.com/view/alexander-w-cappelen/home"> Alexander W. Cappelen </a>, <a href="https://sites.google.com/view/alexander-w-cappelen/home"> Matthew Rabin )
+Reference Dependent Expectations of Inequality (with <a href="https://sites.google.com/view/alexander-w-cappelen/home"> Alexander W. Cappelen </a>, <a href="https://scholar.harvard.edu/rabin/home"> Matthew Rabin </a>, <a href="https://www.statsokonomen.no/about/" > Erik Ø. Sørensen </a>, and <a href="https://sites.google.com/view/bertiltungodden/home" > Bertil Tungodden </a> )
  </summary>
    </details>
----->
+    
   <!---
 <p><details><summary> The Interplay of Beliefs and Preferences in Driving the Disposition Effect </summary>
   <p> <b>Abstract:</b>
