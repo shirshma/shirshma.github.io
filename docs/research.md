@@ -57,18 +57,19 @@ The unemployment rate in the United States reached 14.7%, 23.1 million people, i
 <p align="center"><strong>Works in Progress:</strong>
   
 
-<p><details><summary>Tests of Rank-dependent Probability Weighting in Risky Choice <br> (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu </a>)  </summary>
-   </details>
-
-  
 <p><details><summary>
-    Would You Use a South-Pointing Compass? Consumers Underestimate the Informativeness of Systematic Errors and Disagreement <br> (with Jay Naborn, <a href="https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=perfecto">Hannah Perfecto </a>,  <a href="https://quentinandre.net/">Quentin Andre </a>, and <a href="https://reinholtzresearch.com/">Nick Reinholtz</a>)  </summary>
-   </details>
+Tests of Rank-dependent Probability Weighting in Risky Choice <br> (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu </a>)
+</summary>
+</details>
+    
+<p><details><summary>
+Would You Use a South-Pointing Compass? Consumers Underestimate the Informativeness of Systematic Errors and Disagreement <br> (with Jay Naborn, <a href="https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=perfecto">Hannah Perfecto </a>,  <a href="https://quentinandre.net/">Quentin Andre </a>, and <a href="https://reinholtzresearch.com/">Nick Reinholtz</a>)  </summary>
+</details>
     
 <p><details><summary>
 Reference Dependent Expectations of Inequality <br> (with <a href="https://sites.google.com/view/alexander-w-cappelen/home"> Alexander W. Cappelen </a>, <a href="https://scholar.harvard.edu/rabin/home">Matthew Rabin </a>, <a href="https://www.statsokonomen.no/about/" >Erik Ø. Sørensen </a>, and <a href="https://sites.google.com/view/bertiltungodden/home" >Bertil Tungodden </a> )
- </summary>
-   </details>
+</summary>
+</details>
 
     
   <!---
