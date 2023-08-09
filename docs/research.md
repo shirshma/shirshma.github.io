@@ -67,7 +67,7 @@ Would You Use a South-Pointing Compass? Consumers Underestimate the Informativen
 </details>
     
 <p><details><summary>
-Reference Dependent Expectations of Inequality <br> (with <a href="https://sites.google.com/view/alexander-w-cappelen/home"> Alexander W. Cappelen </a>, <a href="https://scholar.harvard.edu/rabin/home">Matthew Rabin </a>, <a href="https://www.statsokonomen.no/about/" >Erik Ø. Sørensen </a>, and <a href="https://sites.google.com/view/bertiltungodden/home" >Bertil Tungodden </a> )
+Reference Dependent Expectations of Inequality <br> (with <a href="https://sites.google.com/view/alexander-w-cappelen/home">Alexander W. Cappelen </a>,<a href="https://scholar.harvard.edu/rabin/home">Matthew Rabin </a>,<a href="https://www.statsokonomen.no/about/" >Erik Ø. Sørensen </a>, and <a href="https://sites.google.com/view/bertiltungodden/home">Bertil Tungodden </a> )
 </summary>
 </details>
 
