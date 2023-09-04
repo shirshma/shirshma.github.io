@@ -5,10 +5,10 @@ description: Non-PhD Interests
 
 I like coffee more than a person probably should. The map below contains most of the shops I have been to since graduating college. My current top favorites are probably 
 1.  <span class="fn">
-      <a href="https://www.timwendelboe.no" target="_blank">Tim Wendelboe  </a> Oslo, Norway (Visited 3/18)
+      <a href="https://www.timwendelboe.no" target="_blank">Tim Wendelboe  </a> Oslo, Norway (Visited 7/22)
     </span>
 2. <span class="fn">
-      <a href="http://www.trakterenkoffie.nl/" target="_blank">Trakteren Koffie  </a> Amsterdam, Netherlands (Visited 3/18)
+      <a href="http://www.trakterenkoffie.nl/" target="_blank">Trakteren Koffie  </a> Amsterdam, Netherlands (Visited 9/23)
     </span>
 3. <span class="fn">
       <a href="http://www.onibuscoffee.com/" target="_blank"> Onibus Coffee</a> Tokyo, Japan (Visited 8/15)
