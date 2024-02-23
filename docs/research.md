@@ -39,7 +39,7 @@ US Households currently hold $770 billion in credit card debt, often managing re
 <p align="center"><strong>Working Papers:</strong></p>
 
 <details>
-<summary><a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/3036158/DP%2020.pdf?sequence=1&isAllowed=y" target="_blank"> Does Increasing Risk Widen Gender Gaps?</a> <br>(with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) <i>Major Revision requested at Management Science </i></summary>  
+<summary><a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/3036158/DP%2020.pdf?sequence=1&isAllowed=y" target="_blank"> Does Increasing the Riskiness of Choices Widen Gender Gaps?</a> <br>(with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) <i>Major Revision requested at Management Science </i></summary>  
 <b>Abstract:</b>
 We examine the response to an exogenous change in the risk profile of an important educational choice -- requesting a regrade. We demonstrate how ostensibly gender-neutral policies can generate gaps across men and women because they differ in their perceptions of risk. Specifically, we show that an exogenous shift in the risk of requesting a regrade augmented the regrade request gap by nearly 100 percent. We show that this has consequential implications for students through its impact on their grade points. These findings reveal how gender differences identified in the lab manifest when men and women make real world decisions.
     
