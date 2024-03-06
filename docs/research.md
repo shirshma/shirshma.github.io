@@ -54,6 +54,11 @@ The unemployment rate in the United States reached 14.7%, 23.1 million people, i
 </details>
 
 <br>
+<p><details><summary>
+Would You Use a South-Pointing Compass? Consumers Underestimate the Informativeness of Systematic Errors and Disagreement <br> (with Jay Naborn, <a href="https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=perfecto">Hannah Perfecto</a>,  <a href="https://quentinandre.net/">Quentin Andre</a>, and <a href="https://reinholtzresearch.com/">Nick Reinholtz</a>)  </summary>
+<b>Abstract:</b>
+Consumers often lean on other people’s opinions when deciding what to purchase, consume, or do. In eight studies, we document a novel bias in people’s use of advice: Consumers are reluctant to seek out and use information from sources that systematically disagree with them, even when these sources are objectively more informative than people who agree with them. We demonstrate this underappreciation of systematic disagreement in various contexts: in choices and ratings of potential advisors, in joint and separate evaluation, and with and without monetary incentives. We explore three candidate mechanisms for the effect: a preference for homophily in social interactions, a belief that disagreement is inherently less informative than agreement when matters of taste are involved, and a positive test strategy in learning (whereby people intuitively consider confirmatory information over disconfirmatory information). The fact that the bias persists in non-social contexts as well as when matters of taste are irrelevant suggests that the first two mechanisms are not central to the effect. In contrast, the effect is attenuated when the consumption decision is framed as a rejection, and when participants are given time to reconsider their choice, which suggests a positive test strategy as a more likely mechanism.
+</details>
 <p align="center"><strong>Works in Progress:</strong>
   
 
@@ -66,11 +71,7 @@ rejected in the data. In a prediction exercise, Cumulative Prospect Theory predi
 
 </details>
     
-<p><details><summary>
-Would You Use a South-Pointing Compass? Consumers Underestimate the Informativeness of Systematic Errors and Disagreement <br> (with Jay Naborn, <a href="https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=perfecto">Hannah Perfecto</a>,  <a href="https://quentinandre.net/">Quentin Andre</a>, and <a href="https://reinholtzresearch.com/">Nick Reinholtz</a>)  </summary>
-<b>Abstract:</b>
-Consumers often lean on other people’s opinions when deciding what to purchase, consume, or do. In eight studies, we document a novel bias in people’s use of advice: Consumers are reluctant to seek out and use information from sources that systematically disagree with them, even when these sources are objectively more informative than others. We demonstrate this underappreciation of systematic disagreement in various contexts: in choices and ratings of potential advisors, in joint and separate evaluation, and with and without monetary incentives. We explore three candidate mechanisms for the effect: a preference for homophily in social interactions, a belief that disagreement is inherently less informative than agreement when matters of taste are involved, and a positive test strategy in learning (whereby people intuitively consider confirmatory information over disconfirmatory information). The fact that the bias persists in non-social contexts as well as when matters of taste are irrelevant suggests that the first two mechanisms are not necessary to produce the effect. In contrast, the effect is attenuated when the consumption decision is framed as a rejection, and when participants are asked to take additional time to reconsider their choice of advisor, which suggests a positive test strategy as a more likely mechanism.
-</details>
+
     
 <p><details><summary>
 Reference Dependent Expectations of Inequality <br> (with <a href="https://sites.google.com/view/alexander-w-cappelen/home">Alexander W. Cappelen </a>, <a href="https://scholar.harvard.edu/rabin/home">Matthew Rabin</a>, <a href="https://www.statsokonomen.no/about/" >Erik Ø. Sørensen</a>, and <a href="https://sites.google.com/view/bertiltungodden/home">Bertil Tungodden</a>)
