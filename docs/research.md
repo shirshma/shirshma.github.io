@@ -59,6 +59,7 @@ Would You Use a South-Pointing Compass? Consumers Underestimate the Informativen
 <b>Abstract:</b>
 Consumers often lean on other people’s opinions when deciding what to purchase, consume, or do. In eight studies, we document a novel bias in people’s use of advice: Consumers are reluctant to seek out and use information from sources that systematically disagree with them, even when these sources are objectively more informative than people who agree with them. We demonstrate this underappreciation of systematic disagreement in various contexts: in choices and ratings of potential advisors, in joint and separate evaluation, and with and without monetary incentives. We explore three candidate mechanisms for the effect: a preference for homophily in social interactions, a belief that disagreement is inherently less informative than agreement when matters of taste are involved, and a positive test strategy in learning (whereby people intuitively consider confirmatory information over disconfirmatory information). The fact that the bias persists in non-social contexts as well as when matters of taste are irrelevant suggests that the first two mechanisms are not central to the effect. In contrast, the effect is attenuated when the consumption decision is framed as a rejection, and when participants are given time to reconsider their choice, which suggests a positive test strategy as a more likely mechanism.
 </details>
+    <br>
 <p align="center"><strong>Works in Progress:</strong>
   
 
