@@ -42,9 +42,7 @@ US Households currently hold $770 billion in credit card debt, often managing re
 <summary><a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/3036158/DP%2020.pdf?sequence=1&isAllowed=y" target="_blank"> Does Increasing the Riskiness of Choices Widen Gender Gaps?</a> <br>(with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) <i>Major Revision requested at Management Science </i></summary>  
 <b>Abstract:</b>
 We isolate the causal effect of changing the riskiness of choices on the gender gap in consequential real world decisions. We do so by exploiting a national reform to the regrade system of Norwegian universities which generated exogenous variation in the probabilities of the outcome of regrade requests. Using unique individual-level administrative data, we show that both the expected value of a regrade request, as well as the downside risk, increased substantially as a result of the policy. We then show how the ostensibly gender-neutral policy substantially increased gaps between men and women because they differed in their risk preferences and beliefs. Specifically, the exogenous shift in the riskiness of requesting a regrade augmented the regrade request gap by 90 percent. We demonstrate that the increased gender gap in regrade requests has consequential implications for students through its impact on their grade points. In terms of mechanisms, we show that the increased gender gap was caused by the change in the likelihood of a negative regrade outcome, suggesting that gender differences in risk preferences or beliefs about negative outcomes drive the results. We disentangle the relative importance of these mechanisms through auxiliary reduced-form analyses, structural estimation, and a supplemental lab experiment. We find that beliefs rather than loss aversion drive our findings. The findings reveal how gender differences in preferences and beliefs manifest when men and women make real world decisions.
-    
 </details>
-<br>
 <details>
 <summary>The Effect of Job Loss on Risky Decision-Making <br> (with Daniel O'Leary, Abigail B. Sussman, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> 
 </summary>
@@ -53,7 +51,6 @@ The unemployment rate in the United States reached 14.7%, 23.1 million people, i
     
 </details>
 
-<br>
 <p><details><summary>
 Would You Use a South-Pointing Compass? Consumers Underestimate the Informativeness of Systematic Errors and Disagreement <br> (with Jay Naborn, <a href="https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=perfecto">Hannah Perfecto</a>,  <a href="https://quentinandre.net/">Quentin Andre</a>, and <a href="https://reinholtzresearch.com/">Nick Reinholtz</a>)   </summary>
 <b>Abstract:</b>
@@ -71,7 +68,12 @@ weights to be rank-dependent. While rank-dependent decision weights have some we
 rejected in the data. In a prediction exercise, Cumulative Prospect Theory predicted choice shares fit our data on 3 outcome gambles substantially better.
 
 </details>
-    
+
+<p><details><summary> (Mis)perceptions of Stability and Learning <br> (with Alex Imas) </summary>
+  <p> <b>Abstract:</b>
+Expectations and learning from new information are critical inputs to economic behavior. We study how people update their beliefs in stable vs. unstable information environments. We document two novel empirical facts using learning experiments with simple data generating processes. First, people in stable environments update their beliefs “as-if” the environment is unstable. They update their beliefs too much relative to Bayesian learning in response to signals, especially in later rounds of our task. Second, people in simple unstable environments underreact to the possibility of change.  When told about the possibility of change at a specific point in time, people do not update their beliefs enough. We rule out misperceptions of signal diagnosticity, memory constraints, and cognitive uncertainty as drivers of our effects. Finally, we provide convergent evidence that people have a fundamental misperception of stability. They perform substantially better when in an information environment calibrated to prior participants’ perceptions of stability. Our experiments shed light on forecasters’ tendency to both over and underreact to new information. 
+  </p>
+  </details>
 
     
 <p><details><summary>
