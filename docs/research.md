@@ -5,6 +5,12 @@ description: Research Papers
 
 <p align="center"><strong>Published:</strong></p>
 
+<details>
+<summary><a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/3036158/DP%2020.pdf?sequence=1&isAllowed=y" target="_blank"> Does Increasing the Riskiness of Choices Widen Gender Gaps?</a> <br>(with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) <i>Accepted at Management Science </i></summary>  
+<b>Abstract:</b>
+We isolate the causal effect of changing the riskiness of choices on the gender gap in consequential real world decisions. We do so by exploiting a national reform to the regrade system of Norwegian universities which generated exogenous variation in the probabilities of the outcome of regrade requests. Using unique individual-level administrative data, we show that both the expected value of a regrade request, as well as the downside risk, increased substantially as a result of the policy. We then show how the ostensibly gender-neutral policy substantially increased gaps between men and women because they differed in their risk preferences and beliefs. Specifically, the exogenous shift in the riskiness of requesting a regrade augmented the regrade request gap by 90 percent. We demonstrate that the increased gender gap in regrade requests has consequential implications for students through its impact on their grade points. In terms of mechanisms, we show that the increased gender gap was caused by the change in the likelihood of a negative regrade outcome, suggesting that gender differences in risk preferences or beliefs about negative outcomes drive the results. We disentangle the relative importance of these mechanisms through auxiliary reduced-form analyses, structural estimation, and a supplemental lab experiment. We find that beliefs rather than loss aversion drive our findings. The findings reveal how gender differences in preferences and beliefs manifest when men and women make real world decisions.
+</details>
+
 <p><details><summary> <a href='https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4591' target="_blank"> As Wages Increase, Do People Work More or Less? A Wage Frame Effect </a> <br>(with <a href="http://www.luxishen.com/"> Luxi Shen</a>)<br> <i> Management Science</i>, November, 2022  </summary>
 <p>
     <b>Abstract:</b>
@@ -37,12 +43,6 @@ US Households currently hold $770 billion in credit card debt, often managing re
     </details>
   <br>
 <p align="center"><strong>Working Papers:</strong></p>
-
-<details>
-<summary><a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/3036158/DP%2020.pdf?sequence=1&isAllowed=y" target="_blank"> Does Increasing the Riskiness of Choices Widen Gender Gaps?</a> <br>(with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) <i>Major Revision requested at Management Science </i></summary>  
-<b>Abstract:</b>
-We isolate the causal effect of changing the riskiness of choices on the gender gap in consequential real world decisions. We do so by exploiting a national reform to the regrade system of Norwegian universities which generated exogenous variation in the probabilities of the outcome of regrade requests. Using unique individual-level administrative data, we show that both the expected value of a regrade request, as well as the downside risk, increased substantially as a result of the policy. We then show how the ostensibly gender-neutral policy substantially increased gaps between men and women because they differed in their risk preferences and beliefs. Specifically, the exogenous shift in the riskiness of requesting a regrade augmented the regrade request gap by 90 percent. We demonstrate that the increased gender gap in regrade requests has consequential implications for students through its impact on their grade points. In terms of mechanisms, we show that the increased gender gap was caused by the change in the likelihood of a negative regrade outcome, suggesting that gender differences in risk preferences or beliefs about negative outcomes drive the results. We disentangle the relative importance of these mechanisms through auxiliary reduced-form analyses, structural estimation, and a supplemental lab experiment. We find that beliefs rather than loss aversion drive our findings. The findings reveal how gender differences in preferences and beliefs manifest when men and women make real world decisions.
-</details>
 
 <p><details>
 <summary>The Effect of Job Loss on Risky Financial Decision-Making <br> (with  Abigail B. Sussman,<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/carlos-vazquezhernandez.html">Carlos Vazquez-Hernandez </a>, Daniel O'Leary, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> <i>Revision requested at PNAS</i>
