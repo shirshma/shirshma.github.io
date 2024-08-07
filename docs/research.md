@@ -6,7 +6,7 @@ description: Research Papers
 <p align="center"><strong>Published:</strong></p>
 
 <details>
-<summary><a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/3036158/DP%2020.pdf?sequence=1&isAllowed=y" target="_blank"> Does Increasing the Riskiness of Choices Widen Gender Gaps?</a> <br>(with <a href="https://www.alexanderwillen.com/">Alexander Willén </a> ) <i>Accepted at Management Science </i></summary>  
+<summary><a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/3036158/DP%2020.pdf?sequence=1&isAllowed=y" target="_blank"> Does Increasing the Riskiness of Choices Widen Gender Gaps?</a> <br>(with <a href="https://www.alexanderwillen.com/">Alexander Willén</a> ) <i>Accepted at Management Science </i></summary>  
 <b>Abstract:</b>
 We isolate the causal effect of changing the riskiness of choices on the gender gap in consequential real world decisions. We do so by exploiting a national reform to the regrade system of Norwegian universities which generated exogenous variation in the probabilities of the outcome of regrade requests. Using unique individual-level administrative data, we show that both the expected value of a regrade request, as well as the downside risk, increased substantially as a result of the policy. We then show how the ostensibly gender-neutral policy substantially increased gaps between men and women because they differed in their risk preferences and beliefs. Specifically, the exogenous shift in the riskiness of requesting a regrade augmented the regrade request gap by 90 percent. We demonstrate that the increased gender gap in regrade requests has consequential implications for students through its impact on their grade points. In terms of mechanisms, we show that the increased gender gap was caused by the change in the likelihood of a negative regrade outcome, suggesting that gender differences in risk preferences or beliefs about negative outcomes drive the results. We disentangle the relative importance of these mechanisms through auxiliary reduced-form analyses, structural estimation, and a supplemental lab experiment. We find that beliefs rather than loss aversion drive our findings. The findings reveal how gender differences in preferences and beliefs manifest when men and women make real world decisions.
 </details>
@@ -45,7 +45,7 @@ US Households currently hold $770 billion in credit card debt, often managing re
 <p align="center"><strong>Working Papers:</strong></p>
 
 <p><details>
-<summary>The Effect of Job Loss on Risky Financial Decision-Making <br> (with  Abigail B. Sussman,<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/carlos-vazquezhernandez.html">Carlos Vazquez-Hernandez </a>, Daniel O'Leary, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> <i>Revision requested at PNAS</i>
+<summary>The Effect of Job Loss on Risky Financial Decision-Making <br> (with  Abigail B. Sussman,<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/carlos-vazquezhernandez.html">Carlos Vazquez-Hernandez</a>, Daniel O'Leary, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> <i>Revision requested at PNAS</i>
 </summary>
 <b>Abstract:</b>
 Job loss is a common and disruptive life event. It is known to have numerous long term negative effects on financial, health, and social outcomes. While the negative effects of becoming unemployed on health and well-being are well-understood, the influence of job loss on financial decisions has received little attention. Across  a large-scale survey (N = 37,854), spending data from a bank (N=404,470), and two online experiments (total N=1403), we find that job loss increases financial risk taking. First, in survey data, job-loss is associated with elevated levels of self-reported financial risk taking and lottery ticket purchases. Next, using administrative data from a large bank, we find consistent causal evidence of the influence of job loss on gambling spending. Although total spending decreases after job loss, gambling spending is less affected than our control categories. Finally, we turn to two incentive-compatible manipulations of job loss operationalized in a lab setting. We find that this experimental manipulation increases the take-up of financial risks. The current finding that job loss increases financial risk taking could accentuate long term negative financial effects of job loss.
@@ -62,7 +62,7 @@ Consumers often lean on other people’s opinions when deciding what to purchase
   
 
 <p><details><summary>
-Tests of Rank-dependent Probability Weighting in Risky Choice <br> (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu </a>)
+Tests of Rank-dependent Probability Weighting in Risky Choice <br> (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu</a>)
 </summary>
 Cumulative Prospect Theory (Tversky and Kahneman, 1992) modified Original Prospect Theory (Kahneman and Tversky, 1979) by permitting decision
 weights to be rank-dependent. While rank-dependent decision weights have some well-known theoretical advantages – notably eliminating violation of first-order stochastic dominance and allowing for generalization to probability distributions with a large number of outcomes – they also have strong and testable empirical implications, namely that the decision weights are larger outcomes with higher relative ranks. We test whether decision weights are indeed rank-dependent using a large sample of choices between gambles. The gambles were selected to allow semi-parametric estimation of decision weights. Our estimates show strong evidence for rank-dependent decision weights, with the decision weights for the highest valued outcome significantly larger than the decision weights for the middle outcome, holding the probability of that outcome constant. Our estimated decision weights are substantially closer to Cumulative Prospect Theory than Original Prospect Theory, though both exact models are
@@ -78,7 +78,7 @@ Expectations and learning from new information are critical inputs to economic b
 
     
 <p><details><summary>
-Reference Dependent Expectations of Inequality <br> (with <a href="https://sites.google.com/view/alexander-w-cappelen/home">Alexander W. Cappelen </a>, <a href="https://scholar.harvard.edu/rabin/home">Matthew Rabin</a>, <a href="https://www.statsokonomen.no/about/" >Erik Ø. Sørensen</a>, and <a href="https://sites.google.com/view/bertiltungodden/home">Bertil Tungodden</a>)
+Reference Dependent Expectations of Inequality <br> (with <a href="https://sites.google.com/view/alexander-w-cappelen/home">Alexander W. Cappelen</a>, <a href="https://scholar.harvard.edu/rabin/home">Matthew Rabin</a>, <a href="https://www.statsokonomen.no/about/" >Erik Ø. Sørensen</a>, and <a href="https://sites.google.com/view/bertiltungodden/home">Bertil Tungodden</a>)
 </summary>
 </details>
 
