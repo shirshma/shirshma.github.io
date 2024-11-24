@@ -26,7 +26,9 @@ US Households currently hold $770 billion in credit card debt, often managing re
    </p>
    </details>
   <p><details><summary> 
-  <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465246" target="_blank">Ownership, Learning, and Beliefs </a> </span> <br> (with <a href="https://sites.google.com/site/samhartzmark/">Samuel M. Hartzmark</a> and <a href="http://www.aleximas.com/"> Alex Imas</a>) <br> <i>Quarterly Journal of Economics</i>, August, 2021 
+  <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465246" target="_blank">Ownership, Learning, and Beliefs </a> </span> <br> (with <a href="https://sites.google.com/site/samhartzmark/">Samuel M. Hartzmark</a> and <a href="http://www.aleximas.com/"> Alex Imas</a>) <br> <i>Quarterly Journal of Economics</i>, August, 2021<br>
+      <ul>
+  <li> Honorable Mention for the 2024 SJDM Best Paper Award from the Society for Judgment and Decision Making 
   </summary>
   <p>
     <b>Abstract:</b>
@@ -45,7 +47,7 @@ US Households currently hold $770 billion in credit card debt, often managing re
 <p align="center"><strong>Working Papers:</strong></p>
 
 <p><details>
-<summary>The Effect of Job Loss on Risky Financial Decision-Making <br> (with  Abigail B. Sussman,<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/carlos-vazquezhernandez.html">Carlos Vazquez-Hernandez</a>, Daniel O'Leary, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood) </a> <i>In Press at PNAS</i>
+<summary>The Effect of Job Loss on Risky Financial Decision-Making <br> (with  Abigail B. Sussman,<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/carlos-vazquezhernandez.html">Carlos Vazquez-Hernandez</a>, Daniel O'Leary, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood)</a> <i>In Press at PNAS</i>
 </summary>
 <b>Abstract:</b>
 Job loss is a common and disruptive life event. It is known to have numerous long term negative effects on financial, health, and social outcomes. While the negative effects of becoming unemployed on health and well-being are well-understood, the influence of job loss on financial decisions has received little attention. Across  a large-scale survey (N = 37,854), spending data from a bank (N=404,470), and two online experiments (total N=1403), we find that job loss increases financial risk taking. First, in survey data, job-loss is associated with elevated levels of self-reported financial risk taking and lottery ticket purchases. Next, using administrative data from a large bank, we find consistent causal evidence of the influence of job loss on gambling spending. Although total spending decreases after job loss, gambling spending is less affected than our control categories. Finally, we turn to two incentive-compatible manipulations of job loss operationalized in a lab setting. We find that this experimental manipulation increases the take-up of financial risks. The current finding that job loss increases financial risk taking could accentuate long term negative financial effects of job loss.
