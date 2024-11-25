@@ -28,7 +28,8 @@ US Households currently hold $770 billion in credit card debt, often managing re
   <p><details><summary> 
   <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465246" target="_blank">Ownership, Learning, and Beliefs </a> </span> <br> (with <a href="https://sites.google.com/site/samhartzmark/">Samuel M. Hartzmark</a> and <a href="http://www.aleximas.com/"> Alex Imas</a>) <br> <i>Quarterly Journal of Economics</i>, August, 2021<br>
       <ul>
-  <li> Honorable Mention for the 2024 SJDM Best Paper Award from the Society for Judgment and Decision Making 
+  <li> Honorable Mention for the 2024 SJDM Best Paper Award from the Society for Judgment and Decision Making </li>
+      </ul>
   </summary>
   <p>
     <b>Abstract:</b>
