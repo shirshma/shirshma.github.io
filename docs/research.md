@@ -4,6 +4,13 @@ description: Research Papers
 --- 
 
 <p align="center"><strong>Published:</strong></p>
+<p><details>
+<summary><a href="https://www.pnas.org/doi/10.1073/pnas.2412760121" target="_blank"> The Effect of Job Loss on Risky Financial Decision-Making </a> <br> (with  Abigail B. Sussman,<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/carlos-vazquezhernandez.html">Carlos Vazquez-Hernandez</a>, Daniel O'Leary, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood)</a> <i>PNAS</i>, December, 2024
+</summary>
+<b>Abstract:</b>
+Job loss is a common and disruptive life event. It is known to have numerous long term negative effects on financial, health, and social outcomes. While the negative effects of becoming unemployed on health and well-being are well-understood, the influence of job loss on financial decisions has received little attention. Across  a large-scale survey (N = 37,854), spending data from a bank (N=404,470), and two online experiments (total N=1403), we find that job loss increases financial risk taking. First, in survey data, job-loss is associated with elevated levels of self-reported financial risk taking and lottery ticket purchases. Next, using administrative data from a large bank, we find consistent causal evidence of the influence of job loss on gambling spending. Although total spending decreases after job loss, gambling spending is less affected than our control categories. Finally, we turn to two incentive-compatible manipulations of job loss operationalized in a lab setting. We find that this experimental manipulation increases the take-up of financial risks. The current finding that job loss increases financial risk taking could accentuate long term negative financial effects of job loss.
+    
+</details>
 
 <details>
 <summary><a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.04088" target="_blank"> Does Increasing the Riskiness of Choices Widen Gender Gaps?</a> <br>(with <a href="https://www.alexanderwillen.com/">Alexander Willén</a> )<br> <i> Management Science</i>, November, 2024</summary>  
@@ -46,14 +53,6 @@ US Households currently hold $770 billion in credit card debt, often managing re
     </details>
   <br>
 <p align="center"><strong>Working Papers:</strong></p>
-
-<p><details>
-<summary>The Effect of Job Loss on Risky Financial Decision-Making <br> (with  Abigail B. Sussman,<a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/carlos-vazquezhernandez.html">Carlos Vazquez-Hernandez</a>, Daniel O'Leary, and <a href="https://computationaldecisionlab.wordpress.com/">Jennifer Trueblood)</a> <i>In Press at PNAS</i>
-</summary>
-<b>Abstract:</b>
-Job loss is a common and disruptive life event. It is known to have numerous long term negative effects on financial, health, and social outcomes. While the negative effects of becoming unemployed on health and well-being are well-understood, the influence of job loss on financial decisions has received little attention. Across  a large-scale survey (N = 37,854), spending data from a bank (N=404,470), and two online experiments (total N=1403), we find that job loss increases financial risk taking. First, in survey data, job-loss is associated with elevated levels of self-reported financial risk taking and lottery ticket purchases. Next, using administrative data from a large bank, we find consistent causal evidence of the influence of job loss on gambling spending. Although total spending decreases after job loss, gambling spending is less affected than our control categories. Finally, we turn to two incentive-compatible manipulations of job loss operationalized in a lab setting. We find that this experimental manipulation increases the take-up of financial risks. The current finding that job loss increases financial risk taking could accentuate long term negative financial effects of job loss.
-    
-</details>
 
 <p><details><summary>
 Would You Use a South-Pointing Compass? Consumers Underestimate the Informativeness of Systematic Errors and Disagreement <br> (with Jay Naborn, <a href="https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=perfecto">Hannah Perfecto</a>,  <a href="https://quentinandre.net/">Quentin Andre</a>, and <a href="https://reinholtzresearch.com/">Nick Reinholtz</a>)   </summary>
