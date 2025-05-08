@@ -10,5 +10,5 @@ I am an incoming Assistant Professor of Marketing at the Cornell SC Johnson Coll
 <p> Prior to starting my PhD, I worked at RAND in Boston doing health services research. I graduated from Swarthmore College in 2013. 
 
 <p>
-Email me at <a href="mailto:samuel.hirshman@nhh.no">samuel.hirshman@nhh.no</a>.
+Email me at <a href="mailto:sdh232@cornell.edu">sdh232@cornell.edu</a>.
 
