@@ -64,19 +64,17 @@ Educational Incentives and School Choice
 <b>Abstract:</b>
 We study how targeted educational incentives shape human capital formation, educational trajectories, and labor market outcomes. Exploiting a nationwide reform in Norway that removed bonus credits from university admission scores for taking science and advanced specialization courses in high school, we provide novel evidence of how marginal changes in course-level incentives affect students’ academic decisions and long-run career paths. Using population-wide register data and a dose-response difference-in-differences design, we show that students respond by dropping science and specialization courses in favor of easier subjects. This shift leads to slightly higher high school grades but lowers overall admission scores, reducing access to selective college programs. Affected students are subsequently less likely to complete STEM college degrees and pursue master’s degrees. We also find moderate but economically meaningful reductions in expected earnings at age 35. To understand behavioral responses, we conducted a novel survey of high school students, which reveals that decisions about courses are shaped by perceived difficulty and information gaps, with the strongest responses among high-achieving students. Our findings demonstrate how seemingly small changes in education policy can alter the supply of skills, shape long-run labor market outcomes, and affect inequality in access to opportunity.
 </details>
+
+<p><details><summary>
+An Empirical Test of Rank-Dependent Probability Weighting <br> (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu</a>)
+</summary>
+Cumulative Prospect Theory (Tversky and Kahneman, 1992) modified Original Prospect Theory (Kahneman and Tversky, 1979) by allowing decision weights to depend on the rank of the outcome. Rank-dependent decision weights provide some theoretical advantages, including eliminating violations of first-order stochastic dominance and generalizing to probability distributions with any number of outcomes.  This representation also has strong and testable empirical implications.  In particular, given well-documented properties of the probability weighting function, decision weights should be larger for more extreme outcomes.   We test whether decision weights are indeed rank-dependent using a large sample of binary choices between gambles (1,991 participants and 59,730 choices). The gambles were designed  to allow semi-parametric estimation of decision weights. Our estimates show strong evidence for rank-dependence: decision weights for the highest-valued outcome are significantly larger than those for the middle outcome. Although both models are statistically rejected, our estimated decision weights are considerably closer to Cumulative Prospect Theory than Original Prospect Theory. Moreover, in an out-of-sample prediction exercise, Cumulative Prospect Theory predicts three-outcome choice percentages substantially better than Original Prospect Theory. Our results thus provide a strong empirical basis for the use of Cumulative Prospect Theory in economic applications.
+
+</details>
     <br>
     
 <p align="center"><strong>Works in Progress:</strong>
   
-
-<p><details><summary>
-Tests of Rank-dependent Probability Weighting in Risky Choice <br> (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu</a>)
-</summary>
-Cumulative Prospect Theory (Tversky and Kahneman, 1992) modified Original Prospect Theory (Kahneman and Tversky, 1979) by permitting decision
-weights to be rank-dependent. While rank-dependent decision weights have some well-known theoretical advantages – notably eliminating violation of first-order stochastic dominance and allowing for generalization to probability distributions with a large number of outcomes – they also have strong and testable empirical implications, namely that the decision weights are larger outcomes with higher relative ranks. We test whether decision weights are indeed rank-dependent using a large sample of choices between gambles. The gambles were selected to allow semi-parametric estimation of decision weights. Our estimates show strong evidence for rank-dependent decision weights, with the decision weights for the highest valued outcome significantly larger than the decision weights for the middle outcome, holding the probability of that outcome constant. Our estimated decision weights are substantially closer to Cumulative Prospect Theory than Original Prospect Theory, though both exact models are
-rejected in the data. In a prediction exercise, Cumulative Prospect Theory predicted choice shares fit our data on 3 outcome gambles substantially better.
-
-</details>
 
 <p><details><summary> (Mis)perceptions of Stability and Learning <br> (with Alex Imas) </summary>
   <p> <b>Abstract:</b>
