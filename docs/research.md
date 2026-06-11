@@ -68,8 +68,24 @@ We study how targeted educational incentives shape human capital formation, educ
 <p><details><summary>
   <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6921619" target="_blank">An Empirical Test of Rank-Dependent Probability Weighting  </a> </span><br> (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu</a>)
 </summary>
-Cumulative Prospect Theory (Tversky and Kahneman, 1992) modified Original Prospect Theory (Kahneman and Tversky, 1979) by allowing decision weights to depend on the rank of the outcome. Rank-dependent decision weights provide some theoretical advantages, including eliminating violations of first-order stochastic dominance and generalizing to probability distributions with any number of outcomes.  This representation also has strong and testable empirical implications.  In particular, given well-documented properties of the probability weighting function, decision weights should be larger for more extreme outcomes.   We test whether decision weights are indeed rank-dependent using a large sample of binary choices between gambles (1,991 participants and 59,730 choices). The gambles were designed  to allow semi-parametric estimation of decision weights. Our estimates show strong evidence for rank-dependence: decision weights for the highest-valued outcome are significantly larger than those for the middle outcome. Although both models are statistically rejected, our estimated decision weights are considerably closer to Cumulative Prospect Theory than Original Prospect Theory. Moreover, in an out-of-sample prediction exercise, Cumulative Prospect Theory predicts three-outcome choice percentages substantially better than Original Prospect Theory. Our results thus provide a strong empirical basis for the use of Cumulative Prospect Theory in economic applications.
-
+Cumulative Prospect Theory (Tversky and Kahneman, 1992) modified Original
+Prospect Theory (Kahneman and Tversky, 1979) so that decision weights depend on
+the rank of the outcome. Rank dependence rules out violations of first-order stochastic
+dominance and extends prospect theory to probability distributions with any number
+of outcomes. This representation also has sharp, testable empirical implications: given
+well-documented properties of the probability weighting function, decision weights
+should be larger for the highest-ranked outcome than for intermediate outcomes.
+We test whether decision weights are indeed rank-dependent using a large sample of
+binary choices (1,989 participants and 59,517 choices). The 125 gamble pairs were
+designed to allow semi-parametric estimation of decision weights. Our estimates
+show strong evidence for rank dependence: decision weights for the highest-valued
+outcome are significantly larger than those for the middle outcome. Although both
+models are statistically rejected, our estimated decision weights are considerably closer
+to Cumulative Prospect Theory than Original Prospect Theory. Moreover, in an
+out-of-sample prediction exercise, Cumulative Prospect Theory predicts three-outcome
+choice percentages substantially better than Original Prospect Theory. Our results
+thus provide a strong empirical basis for the use of Cumulative Prospect Theory in
+economic applications.
 </details>
     <br>
     
