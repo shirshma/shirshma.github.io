@@ -66,7 +66,7 @@ We study how targeted educational incentives shape human capital formation, educ
 </details>
 
 <p><details><summary>
-  <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6921619" target="_blank">An Empirical Test of Rank-Dependent Probability Weighting  </a> </span><br> (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu</a>)
+  <span class="fn"> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6921619" target="_blank">An Empirical Test of Rank-Dependent Probability Weighting  </a> </span><br> (with <a href="https://faculty.chicagobooth.edu/george.wu/"> George Wu</a>)<br> <i>Under Review</i> 
 </summary>
 Cumulative Prospect Theory (Tversky and Kahneman, 1992) modified Original
 Prospect Theory (Kahneman and Tversky, 1979) so that decision weights depend on
