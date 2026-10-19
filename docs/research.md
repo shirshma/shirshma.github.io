@@ -87,8 +87,14 @@ choice percentages substantially better than Original Prospect Theory. Our resul
 thus provide a strong empirical basis for the use of Cumulative Prospect Theory in
 economic applications.
 </details>
-    <br>
-    
+
+<p><details><summary>
+  <span class="fn"> <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/behavioral-pricing-constrains-tariff-pass-through" target="_blank">Behavioral Pricing Constrains Tariff Pass-Through </a> </span><br> (with <a href="https://www.annaignatenko.com/index.html"> Anna Ignatenko</a>)<br> <i>Under Review</i> 
+    </summary>
+How do firms transmit macroeconomic shocks to consumers through retail prices? We show that pricing frictions induced by behavioral biases play a central role in shaping how cost shocks pass-through to consumers. We document that import tariffs are transmitted primarily through prices that do not end in nine, while nine-ending prices exhibit substantially lower pass-through. After the tariffs, annual inflation is meaningfully larger for non-nine-ending priced products, even products that are not tariffed. These findings identify channels through which consumer biases constrain firms' responses to macroeconomic shocks.
+</details>
+
+ <br> 
 <p align="center"><strong>Works in Progress:</strong>
   
 
